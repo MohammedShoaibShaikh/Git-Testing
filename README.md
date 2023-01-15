@@ -1,2 +1,2 @@
 # Git-Testing
-Testing and Learning Git Commands
+## Testing and Learning Git Commands
